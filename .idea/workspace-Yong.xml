@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6088af5f-5fb1-483b-859b-40fd7279a071" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lsNgz0oK02tkGYj2HS03QJ7513" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DB.executor": "Run",
+    "Application.DevsignProgram.executor": "Run",
+    "Application.G1.executor": "Run",
+    "Application.HomePage.executor": "Run",
+    "Application.JoinProgram.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MemberProc.executor": "Run",
+    "Application.Member_List.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/82102/OneDrive/바탕 화면/project/groupProject",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/OneDrive/바탕 화면/project/groupProject/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6088af5f-5fb1-483b-859b-40fd7279a071" name="Changes" comment="" />
+      <created>1725964940960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725964940960</updated>
+      <workItem from="1725964941983" duration="11797000" />
+      <workItem from="1726037199666" duration="839000" />
+      <workItem from="1726045864686" duration="5471000" />
+      <workItem from="1726202322400" duration="16733000" />
+      <workItem from="1726289926302" duration="16413000" />
+      <workItem from="1726567654766" duration="9113000" />
+      <workItem from="1726639949289" duration="14246000" />
+      <workItem from="1726742413620" duration="15511000" />
+      <workItem from="1726800513278" duration="1574000" />
+      <workItem from="1726816463974" duration="1182000" />
+      <workItem from="1726818247629" duration="469000" />
+      <workItem from="1726818960104" duration="118000" />
+      <workItem from="1726923156310" duration="549000" />
+      <workItem from="1726984391979" duration="12234000" />
+      <workItem from="1727011316554" duration="9684000" />
+      <workItem from="1727059920556" duration="1245000" />
+      <workItem from="1727061760199" duration="5342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/MemberProc.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
